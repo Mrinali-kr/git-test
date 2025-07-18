@@ -1,2 +1,2 @@
 print("Config file loaded successfully.")
-print("Version: 3.0.0")
+print("Version: 1.0.0")
